@@ -1,8 +1,11 @@
-# Woven Minds Studios
+<div align="center">
+  <h1>Woven Minds Studios</h1>
 
-Welcome to the official GitHub organization for Woven Minds Studios, developers of the psychological horror MMO "Woven Thoughts". We're a small, passionate team building an immersive world where abstract concepts gain physical form and hunt their thinkers.
+  <p>Welcome to the official GitHub organization for Woven Minds Studios, developers of the psychological horror MMO "Woven Thoughts".</p>
+  <p></p>We're a small, passionate team building an immersive world where abstract concepts gain physical form and hunt their thinkers.</p>
 
-![Thought Plague Banner](/api/placeholder/1200/300)
+  ![Thought Plague Banner](WovenStudioLogo.jpg)
+</div>
 
 ## 🌐 Our Vision
 
