@@ -72,7 +72,7 @@ If you're interested in contributing, please email us at [WovenMindsStudios@prot
 ## 📢 Contact Us
 
 - **Email:** [WovenMindsStudios@protonmail.com](mailto:WovenMindsStudios@protonmail.com)
-- **Discord:** [discord.gg/wovenminds](https://discord.gg) (Coming Soon)
+- **Discord:** [discord.gg/wovenminds](https://discord.gg/M4aKNG2WP2)
 
 ---
 
