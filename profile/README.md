@@ -28,8 +28,9 @@ We're currently a small but dedicated team of two C++ developers with a passion 
   
 - **Connor Young** - Systems Developer
   - C++ programmer
-  - Audio guy
-  - Fantasy enthusiast
+  - Audio implementation
+  - Devops
+  - QA
 
 *We're passionate about building something unique, and while our team is small, our ambition is not.*
 
